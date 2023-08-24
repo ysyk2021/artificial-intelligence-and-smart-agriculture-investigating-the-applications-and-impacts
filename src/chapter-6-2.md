@@ -1,5 +1,3 @@
-Job Creation and Training Needs
-============================================================================================
 
 While the adoption of artificial intelligence (AI) in smart agriculture has the potential to generate significant economic benefits, there are also concerns about its impact on employment and the need for new training programs to support these technologies. In this chapter, we will explore the economic implications of AI in smart agriculture, including job creation and training needs.
 

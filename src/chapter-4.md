@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Smart Agriculture
-==========================================
 
 Benefits of AI in Agriculture
 -----------------------------

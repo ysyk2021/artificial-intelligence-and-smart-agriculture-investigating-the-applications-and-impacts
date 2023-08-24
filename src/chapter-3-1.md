@@ -1,5 +1,3 @@
-Global Trends in Agriculture and Food Production
-==================================================================================
 
 In this chapter, we will explore the current global trends in agriculture and food production, with a focus on how these trends are impacting the development of smart agriculture.
 

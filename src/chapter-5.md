@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Agricultural Solutions
-============================================
 
 Precision Farming and Crop Monitoring
 -------------------------------------

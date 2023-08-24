@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 Artificial intelligence (AI) is transforming many industries, including agriculture. In this chapter, we will explore the history of AI, the different types of AI, and machine learning techniques that are being used in the agricultural industry.
 

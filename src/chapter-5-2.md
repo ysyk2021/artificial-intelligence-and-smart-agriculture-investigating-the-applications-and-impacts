@@ -1,5 +1,3 @@
-Livestock Management and Health
-=============================================================================
 
 Artificial Intelligence (AI) has the potential to revolutionize livestock management and improve animal health outcomes. In this chapter, we will explore some of the key applications of AI in livestock management and consider the benefits and challenges.
 

@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 In this chapter, we will explore the history of artificial intelligence (AI), from its early beginnings to present-day applications in smart agriculture.
 

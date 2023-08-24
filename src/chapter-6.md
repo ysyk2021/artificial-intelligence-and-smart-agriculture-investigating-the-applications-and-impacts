@@ -1,5 +1,3 @@
-Chapter 6: Economic Implications of AI in Smart Agriculture
-===========================================================
 
 Cost Savings and Efficiency Improvements
 ----------------------------------------

@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Issues Related to AI in Smart Agriculture
-======================================================================
 
 The use of AI technologies in smart agriculture raises a number of ethical and legal issues that must be considered. These issues range from concerns around privacy and bias to questions about ownership and liability. Here are some of the key ethical and legal considerations related to AI in smart agriculture:
 

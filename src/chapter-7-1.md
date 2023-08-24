@@ -1,5 +1,3 @@
-Ethical Considerations
-==============================================================================================
 
 While artificial intelligence (AI) has the potential to revolutionize the agricultural industry, it is not without its ethical concerns. In this chapter, we will explore some of the most important ethical considerations related to AI in smart agriculture.
 

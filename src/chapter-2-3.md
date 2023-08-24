@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 In this chapter, we will provide an introduction to the fundamental concepts of artificial intelligence (AI) and machine learning (ML) techniques as they relate to smart agriculture.
 

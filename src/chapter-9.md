@@ -1,5 +1,3 @@
-Chapter 9: Case Studies of AI in Smart Agriculture
-==================================================
 
 In this chapter, we will examine various case studies that demonstrate successful implementations of artificial intelligence (AI) technologies in different agricultural fields.
 

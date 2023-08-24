@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Smart Agriculture
-==================================================================================
 
 Artificial intelligence (AI) is an umbrella term that refers to a set of technologies that enable machines to perform tasks that would typically require human intelligence. These technologies include machine learning, deep learning, natural language processing, and computer vision, among others.
 

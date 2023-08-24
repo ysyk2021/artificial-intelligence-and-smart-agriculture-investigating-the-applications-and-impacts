@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Agriculture
-===========================================================================================
 
 While artificial intelligence (AI) is poised to revolutionize the agricultural industry, it is not without its challenges and limitations. In this chapter, we will explore some of the main challenges and limitations of AI in agriculture.
 

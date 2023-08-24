@@ -1,5 +1,3 @@
-Legal Framework
-=======================================================================================
 
 While artificial intelligence (AI) holds great promise for the future of agriculture, it is not without ethical and legal implications. In this chapter, we will explore some of the most important ethical and legal issues related to AI in smart agriculture.
 

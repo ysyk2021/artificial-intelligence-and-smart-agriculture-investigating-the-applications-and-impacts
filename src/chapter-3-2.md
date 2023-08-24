@@ -1,5 +1,3 @@
-Components of Agricultural Industry
-=====================================================================
 
 In this chapter, we will explore the various components that make up the agriculture industry and how they are affected by the development of smart agriculture.
 
