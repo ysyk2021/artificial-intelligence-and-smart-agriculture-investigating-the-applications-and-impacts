@@ -12,3 +12,7 @@ Finally, we outline the structure of the book and provide an overview of the sub
 Overall, this book aims to provide a comprehensive overview of the role of intelligent technologies in improving farming practices and increasing productivity. By exploring the intersection of AI and smart agriculture, we hope to inspire new ideas and innovations that will help to drive the agriculture sector towards a more sustainable future.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
