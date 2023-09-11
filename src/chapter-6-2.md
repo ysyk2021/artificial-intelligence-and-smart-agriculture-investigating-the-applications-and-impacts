@@ -1,5 +1,4 @@
-Chapter: Job Creation and Training Needs
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The increasing adoption of artificial intelligence (AI) in agriculture is bringing substantial changes to the farming industry. This chapter explores job creation and training needs arising from the integration of intelligent technologies in farming.
 

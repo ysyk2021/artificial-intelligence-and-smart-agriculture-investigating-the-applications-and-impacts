@@ -1,5 +1,4 @@
-Chapter: Livestock Management and Health
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Livestock management and health are critical aspects of smart agriculture, and artificial intelligence (AI) technologies offer innovative solutions to improve productivity, animal welfare, and disease prevention. This chapter explores the applications of AI in livestock management, including monitoring, health prediction, decision support, and precision husbandry techniques.
 

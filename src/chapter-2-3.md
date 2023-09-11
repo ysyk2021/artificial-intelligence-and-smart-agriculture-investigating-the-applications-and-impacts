@@ -1,5 +1,4 @@
-Chapter: Machine Learning Techniques
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Machine learning (ML) techniques play a crucial role in harnessing the power of artificial intelligence (AI) in smart agriculture. This chapter explores the various ML algorithms and approaches that are employed to analyze agricultural data and make intelligent predictions. From supervised learning to unsupervised learning, this chapter delves into the key machine learning techniques used in the application of AI in farming.
 

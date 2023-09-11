@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) encompasses a wide range of techniques and approaches that aim to replicate or simulate human intelligence. This chapter explores the various types of AI systems and their applications in smart agriculture. From narrow AI to general AI and from rule-based systems to machine learning algorithms, this chapter provides an overview of the different types of AI technologies utilized in farming.
 

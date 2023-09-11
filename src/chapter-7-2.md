@@ -1,5 +1,4 @@
-Chapter: Legal Framework
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of artificial intelligence (AI) technologies in smart agriculture calls for a robust legal framework to address the unique challenges and ensure responsible and ethical use. This chapter explores the key legal considerations and regulations associated with AI in agriculture, including data protection, intellectual property, liability, and ethical guidelines.
 

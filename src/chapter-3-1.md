@@ -1,5 +1,4 @@
-Chapter: Global Trends in Agriculture and Food Production
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The agricultural industry is rapidly evolving to meet the growing demand for food in a world faced with increasing population and climate change challenges. This chapter explores the global trends in agriculture and food production and discusses how artificial intelligence (AI) and smart technologies are transforming the industry.
 

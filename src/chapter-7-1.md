@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Ethics plays a crucial role in the application of artificial intelligence (AI) in smart agriculture. As intelligent technologies continue to revolutionize farming practices, it is essential to address the ethical implications and ensure responsible use. This chapter explores the ethical considerations associated with AI in agriculture, including data privacy, algorithmic bias, transparency, and societal impact.
 

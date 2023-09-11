@@ -1,5 +1,4 @@
-Chapter: Benefits of AI in Agriculture
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) is revolutionizing the agriculture industry, offering numerous benefits that enhance productivity, sustainability, and decision-making. This chapter explores the significant advantages of integrating intelligent technologies in farming.
 

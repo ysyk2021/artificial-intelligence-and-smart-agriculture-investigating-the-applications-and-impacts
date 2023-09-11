@@ -1,5 +1,4 @@
-Chapter: Components of the Agricultural Industry
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The agricultural industry is a complex and multifaceted sector that encompasses various components. This chapter explores the key components of the agricultural industry and discusses how artificial intelligence (AI) and smart technologies are transforming each aspect.
 
